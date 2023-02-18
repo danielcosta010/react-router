@@ -1,10 +1,20 @@
-import Banner from "componentes/Banner";
+
+import Cards from "componentes/Cards";
+import styles from './Inicio.module.css'
+
+import posts from 'json/posts.json'
 
 function Inicio() {
   return (  
     <main>
-      <Banner />
-      <h1>Olá mundo</h1>
+      
+      <ul className={styles.posts}>
+        {posts.map(post => (
+          <li key={post.id}>
+            <Cards post={post}/>
+          </li>
+        ))}
+      </ul>
     </main>
   );
 }
