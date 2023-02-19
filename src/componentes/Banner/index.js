@@ -9,7 +9,7 @@ function Banner() {
         <h1 className={styles.titulo}>
           Olá, Mundo!
         </h1>
-        <p>Bem vindo, sou Daniel Costa estudante na Alura, apaixonado pelo processo de aprendizagem nas tecnologias de desenvovimento e programação. desenvolvendo esta SPA (Single Page Aplication) em react, utilizando a biblioteca router-Dom.</p>
+        <p>Bem vindo, sou Daniel Costa estudante na Alura, apaixonado pelo processo de aprendizagem nas tecnologias de desenvovimento e programação. Desenvolvendo esta SPA (Single Page Aplication) em react, utilizando a biblioteca router-Dom.</p>
       </div>
 
       <div className={styles.imagens}>
