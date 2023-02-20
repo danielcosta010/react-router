@@ -1,0 +1,49 @@
+[33mcommit 914cd80f9494749bd21ac99cfb23655ed829d120[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Daniel Costa <105571748+danielcosta010@users.noreply.github.com>
+Date:   Sun Feb 19 23:03:57 2023 -0300
+
+    post Recomendados
+
+[33mcommit 8031c8f3bf2fa7593b17dbe7bb9932688eff33e6[m
+Author: Daniel Costa <105571748+danielcosta010@users.noreply.github.com>
+Date:   Sun Feb 19 20:25:15 2023 -0300
+
+    Página não encontrada
+
+[33mcommit f2cb96a58a85f9cbd150c250238a7ce99970656d[m
+Author: Daniel Costa <105571748+danielcosta010@users.noreply.github.com>
+Date:   Sun Feb 19 19:04:07 2023 -0300
+
+    Update NaoEncontrada.module.css
+
+[33mcommit 572fdce02b2e712b2d153a54add6a47902be15b3[m
+Author: Daniel Costa <105571748+danielcosta010@users.noreply.github.com>
+Date:   Sat Feb 18 02:50:55 2023 -0300
+
+    Posts
+
+[33mcommit dc6aaaa883e3d173a11756deadd7738896938822[m
+Author: Daniel Costa <105571748+danielcosta010@users.noreply.github.com>
+Date:   Fri Feb 17 22:04:26 2023 -0300
+
+    rotas aninhadas
+
+[33mcommit f0b72c734dceeb203b69b5a429526e7fbe1d5f02[m
+Author: Daniel Costa <105571748+danielcosta010@users.noreply.github.com>
+Date:   Fri Feb 17 15:44:09 2023 -0300
+
+    Banner
+
+[33mcommit 85b19098b23e3ac672db5d11a28eaef3d8d12ce2[m
+Author: Daniel Costa <105571748+danielcosta010@users.noreply.github.com>
+Date:   Thu Feb 16 18:57:27 2023 -0300
+
+    Install react-router
+    
+    instalação da biblioteca react-router npm install react-router-dom@6
+
+[33mcommit 3a84703f7a06eb3ce7b7c3eff084522e11b98522[m
+Author: Daniel Costa <105571748+danielcosta010@users.noreply.github.com>
+Date:   Thu Feb 16 18:14:56 2023 -0300
+
+    Initial commit

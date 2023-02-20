@@ -7,6 +7,7 @@ import Menu from './componentes/Menu'
 import Inicio from './paginas/Inicio';
 import Sobre from './paginas/Sobre';
 import NaoEncontrada from 'paginas/NaoEncontrada';
+import ScrollToTop from 'componentes/ScrollToTop';
 
 
 
@@ -14,6 +15,7 @@ import NaoEncontrada from 'paginas/NaoEncontrada';
 function AppRoutes() {
   return (
     <BrowserRouter>
+      <ScrollToTop />
       <Menu />
       <Routes>
         <Route path='/' element={<PaginaPadrao />}>
