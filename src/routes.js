@@ -8,6 +8,7 @@ import Inicio from './paginas/Inicio';
 import Sobre from './paginas/Sobre';
 import NaoEncontrada from 'paginas/NaoEncontrada';
 import ScrollToTop from 'componentes/ScrollToTop';
+import GoTopButton from 'componentes/GoTopButton';
 
 
 
@@ -28,6 +29,7 @@ function AppRoutes() {
       </Routes>
 
       <Rodape />
+      <GoTopButton />
     </BrowserRouter>
   )
   
